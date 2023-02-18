@@ -1,0 +1,33 @@
+_repo: Wakeman-s-handbook-of-Irish-antiquities-b-Third-Edition_70000
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooke, John Esten
+    aliases:
+    - Effingham, C.
+    - Todkill, Anas
+    birthdate: 1830
+    deathdate: 1886
+    gutenberg_agent_id: '2736'
+    url: http://www.gutenberg.org/2009/agents/2736
+    wikipedia: https://en.wikipedia.org/wiki/John_Esten_Cooke
+description: ''
+gutenberg_issued: '2023-02-09'
+identifiers:
+  gutenberg: '70000'
+language: en
+pgterms:marc904: https://archive.org/details/wakemanshandbook00wake/page/n7/mode/2up
+pgterms:marc905: 20220311185937cookema
+pgterms:marc906: '1903'
+pgterms:marc907: IE
+production_note: Charlene Taylor, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aIreland :$bHodges, Figgis, & Co., Ltd., $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wakeman''s handbook of Irish antiquities : $b Third Edition'
+url: http://www.gutenberg.org/ebooks/70000
